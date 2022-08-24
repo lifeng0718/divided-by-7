@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=今天有在为了梦想努力学习吗？&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=今天又摸鱼了吗？;今天有在为了梦想努力学习吗？&center=true&size=27">
   </a>
 </h1>
 <!-- 敲代码的图片 -->
