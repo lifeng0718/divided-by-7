@@ -4,7 +4,7 @@
   </a>
 </h1>
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -16,7 +16,7 @@
 
 <div align="left">  
 
-#  🙋 Hello
+#  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> hello！</h2> 
 
 <p>🏠&nbsp;&nbsp;Hallo,welcome to watashi の 主页!</p>
 <p>&emsp;&emsp;这里是间歇性躺平，持续性内卷的卷王之王中王中王中王中王的家！</p>
@@ -58,7 +58,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 
-✍️ 写的文档:
+✍️ 学习笔记:
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/545845730">Resnet的具体结构和代码详解</a>
@@ -90,10 +90,30 @@
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/557221372">CVPR2022文章选读（还在长期更新）</a>
 
+# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 近期可能做的工作 </h2> 
+
+<p>&emsp;&emsp;可能会将信号灯识别（附带倒计时识别）、植苗分类、新闻分类的程序上传至github</p>
+<p>&emsp;&emsp;将尽快完善yolo系列的简述部分</p>
+<p>&emsp;&emsp;可能会对yolov4进行精读</p>
+<p>&emsp;&emsp;持续更新CVPR文章笔记</p>
+<p>&emsp;&emsp;可能更新一些SCI阅读笔记</p>
+<p>&emsp;&emsp;可能会上传一些可见光通信的代码，包括光功率分布模型等</p>
+
+# <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
+<p>&emsp;&emsp;一个申博、找工作四处碰壁但坚持不懈的普通人罢了</p>
+
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> 
-  
+
+    
+    
+    
+    
+    
+    
+    
+    
 <!--
 **divided-by-7/divided-by-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
