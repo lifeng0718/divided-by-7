@@ -23,7 +23,7 @@
 <p>&emsp;&emsp;为了理想勇敢前进！</p>
 <p>&emsp;&emsp;目标是 <s>神奇宝贝大师</s> 计算机视觉大师！</p>
 
-💪 正在学习: 
+💪 正在学习（基本掌握）: 
   
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
