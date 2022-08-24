@@ -12,6 +12,7 @@
   <a href="https://github.com/divided-by-7/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://space.bilibili.com/3100497"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <img src="https://visitor-badge.glitch.me/badge?page_id=divided-by-7" /> </div>
 
 <div align="left">  
 
