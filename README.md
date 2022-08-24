@@ -19,7 +19,7 @@
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;Hallo,welcome to watashi の 主页!</p>
-<p>&emsp;&emsp;这里是一个间歇性躺平，持续性内卷的卷王之王中王中王中王中王的家！</p>
+<p>&emsp;&emsp;这里是间歇性躺平，持续性内卷的卷王之王中王中王中王中王的家！</p>
 <p>&emsp;&emsp;最好的时间是过去，其次是现在！</p>
 <p>&emsp;&emsp;为了理想勇敢前进！</p>
 <p>&emsp;&emsp;目标是 <s>神奇宝贝大师</s> 计算机视觉大师！</p>
