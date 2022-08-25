@@ -12,6 +12,7 @@
   <a href="https://github.com/divided-by-7/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-black"></a>&emsp;
   <a href="https://space.bilibili.com/3100497"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-9cf"></a>&emsp;
+  <a href="https://leetcode.cn/u/divided-by-7/"><img src="https://img.shields.io/badge/LeetCode-%E5%8A%9B%E6%89%A3-orange"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=divided-by-7" /> </div>
 
 <div align="left">  
@@ -136,14 +137,19 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 近期可能做的工作 </h2> 
 ### &emsp; Possible work in the near future...
-<p>&emsp;&emsp;😟可能会完善信号灯识别、植苗分类、新闻分类的程序（检查一些代码中的路径，将训练的权重上传网盘等，确保代码能够run起来；目前代码应该是run不了仅供参考思路）</p>
-<p>&emsp;&emsp;😑可能会上传关于传统机器学习（价格预测）的项目</p>
-<p>&emsp;&emsp;😟可能会上传关于语义分割（遥感图像分割）的项目</p>
-<p>&emsp;&emsp;😟将尽快完善yolo系列的简述部分</p>
-<p>&emsp;&emsp;😊可能会对yolov4论文进行精读</p>
+<p>&emsp;&emsp;😊😊😊每天一道LeetCode</p>
 <p>&emsp;&emsp;😊😊持续更新CVPR文章笔记</p>
 <p>&emsp;&emsp;😊😊可能更新一些SCI阅读笔记</p>
+<p>&emsp;&emsp;😊可能会对yolov4论文进行精读</p>
+<p>&emsp;&emsp;😑可能会上传关于传统机器学习（价格预测）的项目</p>
 <p>&emsp;&emsp;😑可能会上传一些可见光通信的代码，包括光功率分布模型等</p>
+<p>&emsp;&emsp;😟可能会完善信号灯识别、植苗分类、新闻分类的程序（检查一些代码中的路径，将训练的权重上传网盘等，确保代码能够run起来；目前代码应该是run不了仅供参考思路）</p>
+<p>&emsp;&emsp;😟可能会上传关于语义分割（遥感图像分割）的项目</p>
+<p>&emsp;&emsp;😟将尽快完善yolo系列的简述部分</p>
+
+
+
+
 
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
 <p>&emsp;&emsp;一个申博、找工作四处碰壁但坚持不懈的普通人罢了</p>
