@@ -9,7 +9,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://github.com/divided-by-7/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://github.com/divided-by-7/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-black"></a>&emsp;
   <a href="https://space.bilibili.com/3100497"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=divided-by-7" /> </div>
@@ -62,33 +62,51 @@
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/545845730">Resnet的具体结构和代码详解</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/546131715">FPN(Feature Pyramid Network)，以resnet50为例讲解FPN具体原理和代码构成</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/551693219">我二大爷15分钟都能看得懂的Faster R-CNN整体讲解</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;&emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/548520195">Faster R-CNN代码详解(1,Transform+backbone)</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;&emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/549820030">Faster R-CNN代码详解(2,RPN)</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;&emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/552217122">Faster R-CNN代码详解(3,ROI_head)</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/554227321">Transformer机制及其在CV领域的应用(DETR)</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/554227321">楼下小卖铺阿姨15分钟都能看完一个版本的yolo系列讲解（还在长期更新）</a>
+<a href="https://zhuanlan.zhihu.com/p/554227321">楼下小卖铺阿姨15分钟都能看完一个版本的yolo系列讲解（还在长期更新</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;&emsp;&emsp;
 <a href="https://github.com/divided-by-7/yolov1">YOLOv1原理详解</a>
+</a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/557221372">CVPR2022文章选读（还在长期更新）</a>
+<a href="https://zhuanlan.zhihu.com/p/557221372">CVPR2022文章选读（还在长期更新</a>
+<a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+
+💬 项目分享:
+
+&emsp;&emsp;
+<a href="https://github.com/divided-by-7/yolov1">YOLOv1原理详解</a>
+</a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
+
+
 
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 近期可能做的工作 </h2> 
 
