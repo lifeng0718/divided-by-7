@@ -11,20 +11,28 @@
 <div align="center">
   <a href="https://github.com/divided-by-7/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-black"></a>&emsp;
   <a href="https://space.bilibili.com/3100497"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-9cf"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=divided-by-7" /> </div>
 
 <div align="left">  
 
 #  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> hello！</h2> 
 
-<p>🏠&nbsp;&nbsp;Hallo,welcome to watashi の 主页!</p>
+<!-- 个人简介 -->
+
+<b>🏠&nbsp;&nbsp;Bonjour! Welcome to watashi の 主页!</b>
+
+<b>🏠&nbsp;&nbsp;Hello! I'm a mediocre master degree candidate and research on objection detection and semantic segmentation~ </b>
 <p>&emsp;&emsp;这里是间歇性躺平，持续性内卷的卷王之王中王中王中王中王的家！</p>
 <p>&emsp;&emsp;最好的时间是过去，其次是现在！</p>
 <p>&emsp;&emsp;为了理想勇敢前进！</p>
+<p>&emsp;&emsp;主要研究目标检测和语义分割！</p>
 <p>&emsp;&emsp;目标是 <s>神奇宝贝大师</s> 计算机视觉大师！</p>
+<br>
 
-💪 正在学习（基本掌握）: 
+💪 <b>正在学习（基本掌握）:</b>
+
+&emsp;&emsp;<b>Studying...(Understand the basic):</b>
   
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -49,16 +57,24 @@
 ![style-GAN](https://img.shields.io/badge/5-style--GAN-blueviolet)
 ![FCN语义分割](https://img.shields.io/badge/6-FCN%EF%BC%88%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%EF%BC%89-blueviolet)
 ![U-net语义分割](https://img.shields.io/badge/7-U--net-blueviolet)
- 
-🧠 未来想学:
+![Deeplab](https://img.shields.io/badge/8-Deeplab-blueviolet)
+
+<br>
+
+🧠 <b>未来想学:</b>
+
+&emsp;&emsp;<b>Want to study in the future...:</b>
   
 &emsp;&emsp;
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+<br>
 
-✍️ 学习笔记:
+✍️ <b>学习笔记:</b>
+
+&emsp;&emsp;<b>study notes:</b>
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/545845730">Resnet的具体结构和代码详解</a>
@@ -89,7 +105,7 @@
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/554227321">楼下小卖铺阿姨15分钟都能看完一个版本的yolo系列讲解（还在长期更新</a>
+<a href="https://zhuanlan.zhihu.com/p/554227321">楼下小卖铺阿姨15分钟都能看完一个版本的yolo系列讲解（还在长期更新）</a>
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;&emsp;&emsp;
@@ -100,22 +116,26 @@
 <a href="https://zhuanlan.zhihu.com/p/557221372">CVPR2022文章选读（还在长期更新</a>
 <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
-💬 项目分享:
+<br>
+
+💬 <b>项目分享:</b>
+
+&emsp;&emsp;<b>Share:</b>
 
 &emsp;&emsp;
-<a href="https://github.com/divided-by-7/yolov1">YOLOv1原理详解</a>
+Traffic light detection：<a href="https://github.com/divided-by-7/Traffic-light-detection">信号灯识别</a>
 </a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
 
 
 
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 近期可能做的工作 </h2> 
-
-<p>&emsp;&emsp;可能会将信号灯识别（附带倒计时识别）、植苗分类、新闻分类的程序上传至github</p>
-<p>&emsp;&emsp;将尽快完善yolo系列的简述部分</p>
-<p>&emsp;&emsp;可能会对yolov4进行精读</p>
-<p>&emsp;&emsp;持续更新CVPR文章笔记</p>
-<p>&emsp;&emsp;可能更新一些SCI阅读笔记</p>
-<p>&emsp;&emsp;可能会上传一些可见光通信的代码，包括光功率分布模型等</p>
+### &emsp; Possible work in the near future...
+<p>&emsp;&emsp;😟可能会将信号灯识别（附带倒计时识别）、植苗分类、新闻分类的程序上传至github</p>
+<p>&emsp;&emsp;😟将尽快完善yolo系列的简述部分</p>
+<p>&emsp;&emsp;😊可能会对yolov4论文进行精读</p>
+<p>&emsp;&emsp;😊😊持续更新CVPR文章笔记</p>
+<p>&emsp;&emsp;😊😊可能更新一些SCI阅读笔记</p>
+<p>&emsp;&emsp;😑可能会上传一些可见光通信的代码，包括光功率分布模型等</p>
 
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
 <p>&emsp;&emsp;一个申博、找工作四处碰壁但坚持不懈的普通人罢了</p>
