@@ -20,14 +20,14 @@
 
 <!-- 个人简介 -->
 
-<b>🏠&nbsp;&nbsp;Bonjour! Welcome to watashi の 主页!</b>
+<b>🏠&nbsp;&nbsp;Bonjour! Welcome to watashi の 主页！</b>
 
 <b>🏠&nbsp;&nbsp;Hello! I'm a mediocre master degree candidate and research on objection detection and semantic segmentation~ </b>
 <p>&emsp;&emsp;这里是间歇性躺平，持续性内卷的卷王之王中王中王中王中王的家！</p>
 <p>&emsp;&emsp;最好的时间是过去，其次是现在！</p>
 <p>&emsp;&emsp;为了理想勇敢前进！</p>
-<p>&emsp;&emsp;主要研究目标检测和语义分割！</p>
-<p>&emsp;&emsp;目标是 <s>神奇宝贝大师</s> 计算机视觉大师！</p>
+<p>&emsp;&emsp;主要研究<b>目标检测</b>和<b>语义分割！</b></p>
+<p>&emsp;&emsp;目标是 <s>神奇宝贝大师！</s> 计算机视觉大师！</p>
 <br>
 
 💪 <b>正在学习（基本掌握）:</b>
