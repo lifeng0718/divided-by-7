@@ -7,6 +7,7 @@
 <div align="center" ><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 <br>
 
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://github.com/divided-by-7/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-black"></a>&emsp;
