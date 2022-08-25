@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=小卢今天又摸鱼了吗？;小卢今天有在为了梦想努力学习吗？&center=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=小卢今天摸鱼了吗？;小卢今天有在为了梦想努力学习吗？&center=true&size=24">
   </a>
 </h1>
 <!-- 敲代码的图片 -->
@@ -137,6 +137,8 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 近期可能做的工作 </h2> 
 ### &emsp; Possible work in the near future...
 <p>&emsp;&emsp;😟可能会完善信号灯识别、植苗分类、新闻分类的程序（检查一些代码中的路径，将训练的权重上传网盘等，确保代码能够run起来；目前代码应该是run不了仅供参考思路）</p>
+<p>&emsp;&emsp;😑可能会上传关于传统机器学习（价格预测）的项目</p>
+<p>&emsp;&emsp;😟可能会上传关于语义分割（遥感图像分割）的项目</p>
 <p>&emsp;&emsp;😟将尽快完善yolo系列的简述部分</p>
 <p>&emsp;&emsp;😊可能会对yolov4论文进行精读</p>
 <p>&emsp;&emsp;😊😊持续更新CVPR文章笔记</p>
