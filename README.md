@@ -130,11 +130,13 @@ Image classification：<a href="https://github.com/divided-by-7/image-classifica
 Traffic light detection：<a href="https://github.com/divided-by-7/Traffic-light-detection">信号灯识别</a>
 </a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
 
-
+&emsp;&emsp;
+Chinese news classification：<a href="https://github.com/divided-by-7/news-classifcation">新闻分类</a>
+</a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
 
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 近期可能做的工作 </h2> 
 ### &emsp; Possible work in the near future...
-<p>&emsp;&emsp;😟可能会将信号灯识别（附带倒计时识别）、植苗分类、新闻分类的程序上传至github</p>
+<p>&emsp;&emsp;😟可能会完善信号灯识别、植苗分类、新闻分类的程序（检查一些代码中的路径，将训练的权重上传网盘等，确保代码能够run起来；目前代码应该是run不了仅供参考思路）</p>
 <p>&emsp;&emsp;😟将尽快完善yolo系列的简述部分</p>
 <p>&emsp;&emsp;😊可能会对yolov4论文进行精读</p>
 <p>&emsp;&emsp;😊😊持续更新CVPR文章笔记</p>
