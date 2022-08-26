@@ -43,12 +43,12 @@
 ![Latex](https://img.shields.io/badge/-LaTeX-red?style=flat-square&logo=LaTeX)
   
 &emsp;&emsp;
-![numpy](https://img.shields.io/badge/-numpy%E2%98%86-green)
+![numpy](https://img.shields.io/badge/-numpy-green)
 ![sklearn](https://img.shields.io/badge/-sklearn-yellowgreen)
 ![pandas](https://img.shields.io/badge/-pandas-yellow)
 ![tensorflow](https://img.shields.io/badge/-tensorflow-orange)
-![pytorch](https://img.shields.io/badge/-pytorch%E2%98%86-red)
-![torchvision](https://img.shields.io/badge/-torchvision%E2%98%86-lightgrey)
+![pytorch](https://img.shields.io/badge/-pytorch-red)
+![torchvision](https://img.shields.io/badge/-torchvision-lightgrey)
 ![openCV](https://img.shields.io/badge/-openCV-blue)
   
   
@@ -75,7 +75,7 @@
 
 <br>
 
-✍️ <b>学习笔记:</b>
+✍️ <b>网络发文:</b>
 
 &emsp;&emsp;<b>study notes:</b>
 
@@ -143,7 +143,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;😊😊持续更新CVPR文章笔记</p>
 <p>&emsp;&emsp;😊😊可能更新一些SCI阅读笔记</p>
 <p>&emsp;&emsp;😊可能会对yolov4论文进行精读</p>
-<p>&emsp;&emsp;😑可能会上传曾经精读过的顶会、SCI的笔记</p>
+<p>&emsp;&emsp;😊可能会上传曾经精读过的顶会、SCI的笔记</p>
 <p>&emsp;&emsp;😑可能会上传关于传统机器学习（价格预测）的项目</p>
 <p>&emsp;&emsp;😑可能会上传一些可见光通信的代码，包括光功率分布模型等</p>
 <p>&emsp;&emsp;😟可能会完善信号灯识别、植苗分类、新闻分类的程序（检查一些代码中的路径，将训练的权重上传网盘等，确保代码能够run起来；目前代码应该是run不了仅供参考思路）</p>
@@ -156,7 +156,10 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 
 
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
-<p>&emsp;&emsp;一个申博、找工作四处碰壁但坚持不懈的普通人罢了</p>
+
+<!-- About me -->
+
+<p>&emsp;&emsp;尽人事，听天命</p>
 
 
 
