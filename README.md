@@ -16,6 +16,14 @@
   <a href="https://leetcode.cn/u/divided-by-7/"><img src="https://img.shields.io/badge/LeetCode-%E5%8A%9B%E6%89%A3-orange"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=divided-by-7" /> </div>
 
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/-快速访问-->-white"></a>&emsp;
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/K-Kaggle-blue"></a>&emsp;
+  <a href="https://openaccess.thecvf.com/menu"><img src="https://img.shields.io/badge/CvF-CVF-blue"></a>&emsp;
+  <a href="https://paperswithcode.com/"><img src="https://img.shields.io/badge/P-PaperWithCode-blue"></a>&emsp;
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/G-GoogleScholar-blue"></a>&emsp;
+
 <div align="left">  
 
 #  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> hello！</h2> 
