@@ -143,6 +143,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;😊😊持续更新CVPR文章笔记</p>
 <p>&emsp;&emsp;😊😊可能更新一些SCI阅读笔记</p>
 <p>&emsp;&emsp;😊可能会对yolov4论文进行精读</p>
+<p>&emsp;&emsp;😑可能会上传曾经精读过的顶会、SCI的笔记</p>
 <p>&emsp;&emsp;😑可能会上传关于传统机器学习（价格预测）的项目</p>
 <p>&emsp;&emsp;😑可能会上传一些可见光通信的代码，包括光功率分布模型等</p>
 <p>&emsp;&emsp;😟可能会完善信号灯识别、植苗分类、新闻分类的程序（检查一些代码中的路径，将训练的权重上传网盘等，确保代码能够run起来；目前代码应该是run不了仅供参考思路）</p>
@@ -150,15 +151,15 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;😟将尽快完善yolo系列的简述部分</p>
 
 
-
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> 
 
 
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
 <p>&emsp;&emsp;一个申博、找工作四处碰壁但坚持不懈的普通人罢了</p>
 
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> 
+
 
     
     
