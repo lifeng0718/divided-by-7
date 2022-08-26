@@ -160,8 +160,9 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <!-- About me -->
 
 <p>&emsp;&emsp;尽人事，听天命</p>
-
-
+<p>&emsp;&emsp;有太多的遗憾</p>
+<p>&emsp;&emsp;但是能做的只有现在</p>
+<p>&emsp;&emsp;能改变的是未来</p>
 
 
     
