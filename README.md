@@ -112,7 +112,7 @@
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/554227321">Transformer机制及其在CV领域的应用(DETR)</a>
+<a href="https://zhuanlan.zhihu.com/p/554227321">Transformer机制及其在CV领域的应用</a>
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
