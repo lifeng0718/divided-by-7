@@ -120,7 +120,7 @@
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 
-&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/558416098">Swin Transformer精读</a>
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
