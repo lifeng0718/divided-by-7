@@ -7,7 +7,6 @@
 <div align="center" ><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 <br>
 
-<a name="label">Text to be displayed</a>
 
 <!-- 个人资料徽标 -->
 <div align="center">
