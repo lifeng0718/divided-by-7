@@ -175,7 +175,8 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <!-- logs -->
 # <img height="40" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/> logs </h2> 
 <p>&emsp;&emsp;2022-8-27 00:56:25 更新了第一条日志，按照我的惯例，估计每天更新的都是前一天的工作吧。今天（本日志称昨天为今天）做了一些不可公开工作，更新了CVPR文章笔记第二篇，上传了DETR笔记，我写完今日份的logs之后打算再写写CVPR笔记，争取把第二篇文章的笔记写完。对了，还将昨天刷的LeetCode题用更好的方法解答了一遍，今天刷的题没解答出来，感觉思路到位了但差了一点点，还是科研为主吧，明天加油。晚安~</p>
-
+<p>&emsp;&emsp;2022-8-27 19:45:58 精读了一下swin Transformer，把昨天没做完的LeetCode题4给做出来了，发现难度是困难，感觉还不错。</p>
+<p>&emsp;&emsp;</p>
 
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
