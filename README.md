@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=小卢今天摸鱼了吗？;小卢今天有在为了梦想努力学习吗？&center=true&size=24">
   </a>
 </h1>
+<p>人们会记住 $E=mc²$ ,会记住 $F=ma$ ,会记住 $a²+b²=c²$ ,但不会记得 $y=model \left(x \right)$ </p>
+
+
+
 <!-- 敲代码的图片 -->
 <div align="center" ><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 <br>
