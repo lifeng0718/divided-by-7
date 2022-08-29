@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>自定义滚动条</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    <!--滚动视图-->
+    <div id="scrollView">
+        <!--滚动内容-->
+        <div id="scrollContent"></div>
+        <!--滚动条区域-->
+        <div id="scrollTrack">
+            <!--小幅度向上滚动按钮-->
+            <div id="btnUp"></div>
+            <!--大幅度向上滚动点击区域-->
+            <div id="trackUp"></div>
+            <!--滚动条滑块-->
+            <div id="scrollBar"></div>
+            <!--大幅度向下滚动点击区域-->
+            <div id="trackDown"></div>
+            <!--小幅度向下滚动按钮-->
+            <div id="btnDown"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
 <!-- 动态打字效果 -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=小卢今天摸鱼了吗？;小卢今天有在为了梦想努力学习吗？&center=true&size=24">
