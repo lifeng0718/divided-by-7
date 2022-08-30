@@ -149,7 +149,7 @@
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
-Chinese news classification：<a href="https://zhuanlan.zhihu.com/p/558588853">STUD,wild video实现OOD检测</a>
+<a href="https://zhuanlan.zhihu.com/p/558588853">STUD,wild video实现OOD检测</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 
