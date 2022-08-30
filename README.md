@@ -185,6 +185,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-8-28 13:26:20 niubility！把昨天力扣题解出来了，超过了86%玩家，对我来说很不错了😭。从QKV起名字的理由、NLP方向的理解，再再再再次深入思考Transformer在CV上的真正作用，真的每一次反思都有新理解！现已将新理解更新至知乎Transformer篇！精读了DeiT论文，有点累不想更新链接，隔一周在github上更新一次笔记吧。哎，又是焦虑的一天。感觉自己太浮躁了，这样是出不了任何成绩的，况且手上现在也没有算力，不如先静下心来研究一下backbone背后的数学吧。backbone的分析研究后期也会上传。现在必须面临一个问题：DETR方面的研究很可能面临算力不足的问题，是不是该考虑着手小点的数据集小点的模型。</p>
 <p>&emsp;&emsp;2022-8-29 20:55:47 由于昨天的DeiT文章在Knowledge Distillation部分还是不太明白，今天学习了一下大佬的作品KD，考虑要不要写成文章总结一下，有空就写吧。然后又重新总结了一遍DeiT，算是彻底吃掉DeiT这篇文章了。总而言之学到了KD感觉受益匪浅，我最想做的就是一个小而美的model，该多看看蒸馏剪枝啥的。今天的LeetCode题很快就解决了，勉强过关吧，速度60%内存80%。思考了一下关于损失函数优化的一些想法，争取近期做一下实验。然后继续做昨天的resnet的可视化吧。</p>
 
+<p>&emsp;&emsp;2022-8-30 10:43:46 今天想要研究一下模型压缩方面的文章，然后深入思考一下昨天想的loss、feedback、multi model dis，从数学层面推理一下可行性，可行的话先拿mnist和cifar10试试。</p>
 <p>&emsp;&emsp;</p>
 
 <!-- About me -->
