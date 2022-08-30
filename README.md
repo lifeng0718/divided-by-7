@@ -143,6 +143,18 @@
 <a href="https://zhuanlan.zhihu.com/p/557221372">CVPR2022文章选读（还在长期更新...）</a>
 <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
+
+&emsp;&emsp;
+<a href="https://zhuanlan.zhihu.com/p/558691210">DeiT,一个ViT+tricks+distillation模型</a>
+</a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+
+&emsp;&emsp;
+Chinese news classification：<a href="https://zhuanlan.zhihu.com/p/558588853">STUD,wild video实现OOD检测</a>
+</a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+
+
+
+
 <br>
 
 💬 <b>项目分享:</b>
@@ -160,6 +172,9 @@ Traffic light detection：<a href="https://github.com/divided-by-7/Traffic-light
 &emsp;&emsp;
 Chinese news classification：<a href="https://github.com/divided-by-7/news-classifcation">新闻分类</a>
 </a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
+
+
+
 
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 近期可能做的工作 </h2> 
 ### &emsp; Possible work in the near future...
