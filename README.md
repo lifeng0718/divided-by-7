@@ -55,6 +55,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Latex](https://img.shields.io/badge/-LaTeX-red?style=flat-square&logo=LaTeX)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown)
   
 &emsp;&emsp;
 ![numpy](https://img.shields.io/badge/-numpy-green)
