@@ -203,7 +203,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-8-30 16:37:09 今天想要研究一下模型压缩方面的文章，然后深入思考一下昨天想的loss、feedback、multi model dis，从数学层面推理一下可行性，可行的话先拿mnist和cifar10试试。每日一扣（力扣）√。想要设计一个全新的损失函数得从矩阵求梯度的角度重新思考一下，因为我们要更新weight和bias，所以<b>criterion必须是关于w和b可导（已经从数学角度推过了，不用再回头思考这个起点是否成立）</b>的。在CIFAR100上玩的时候，突发奇想是不是可以对数据集蒸馏一下，这样自己就玩得动ImageNet了，想了半天感觉我真是天才，真是好idea，一上google scholoar，文章名Dataset Distillation，发表于4年前。真是生不逢时，连起的名字都和我想的一样。</p>
 
 
-<p>&emsp;&emsp;2022-8-31 今天不打算读论文，做一天实验复现吧。</p>
+<p>&emsp;&emsp;2022-8-31 仔细看了一下昨天的某个想法，暂且记为tk.0，发现tk.0这个领域的文章并不多，可我认为是个不错的方向，今天好好研究一下。</p>
 
 <p>&emsp;&emsp;</p>
 
