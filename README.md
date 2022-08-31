@@ -36,7 +36,7 @@
 
 <!-- 个人简介 -->
 
-<b>🏠&nbsp;&nbsp;Bonjour! Welcome to watashi の 主页！</b>
+<b>🏠&nbsp;&nbsp;Bonjour! Welcome to 나の主页！</b>
 
 <b>🏠&nbsp;&nbsp;Hello! I'm a mediocre master degree candidate and research on objection detection and semantic segmentation~ </b>
 <p>&emsp;&emsp;这里是间歇性躺平，持续性内卷的卷王之王中王中王中王中王的家！</p>
