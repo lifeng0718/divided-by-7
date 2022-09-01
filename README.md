@@ -133,7 +133,7 @@
 
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/554227321">楼下小卖铺阿姨15分钟都能看完一个版本的yolo系列讲解（还在长期更新...）</a>
+<a href="https://zhuanlan.zhihu.com/p/555610446">楼下小卖铺阿姨15分钟都能看完一个版本的yolo系列讲解（还在长期更新...）</a>
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;&emsp;&emsp;
