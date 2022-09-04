@@ -204,7 +204,9 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-8-31 仔细看了一下昨天的某个想法，暂且记为tk.0，发现tk.0这个领域的文章并不多，可我认为是个不错的方向，今天好好研究一下。每日一扣√。要是早点入坑CV就好了，不至于现在这样顶着各方压力还得沉下心做研究。</p>
 
 <p>&emsp;&emsp;2022-9-1 复习了一下yolo系列，并更新了yolo1~5系列简读文章。研究了一下数据集方面的问题，找到几个可能数据量小一些的公开数据集，明天做尝试。对tk.0进一步阅读相关文献。</p>
-<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;2022-9-2 发现yolov5更新到6的版本了，阅读了一下源码，不愧是最好用的工程项目，稍微玩了会儿yolo。找了一些数据集，尝试在colab上复现一下，至少要达到baseline水平吧。</p>
+<p>&emsp;&emsp;2022-9-3 最近心态有点焦虑，9-2晚上基本没怎么睡好，调整一天心态吧，今天放个假。</p>
+<p>&emsp;&emsp;2022-9-3 感觉良好！今天把前两天落下的补回来！</p>
 
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
