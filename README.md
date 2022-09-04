@@ -206,7 +206,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-9-1 复习了一下yolo系列，并更新了yolo1~5系列简读文章。研究了一下数据集方面的问题，找到几个可能数据量小一些的公开数据集，明天做尝试。对tk.0进一步阅读相关文献。</p>
 <p>&emsp;&emsp;2022-9-2 发现yolov5更新到6的版本了，阅读了一下源码，不愧是最好用的工程项目，稍微玩了会儿yolo。找了一些数据集，尝试在colab上复现一下，至少要达到baseline水平吧。</p>
 <p>&emsp;&emsp;2022-9-3 最近心态有点焦虑，9-2晚上基本没怎么睡好，调整一天心态吧，今天放个假。</p>
-<p>&emsp;&emsp;2022-9-3 感觉良好！今天把前两天落下的补回来！仔细阅读了一下关于yolo的改进方式，找到了对yolo的NMS、loss、backbone、head替换的方式，准备开始尝试替换backbone进行研究。尝试在天池跑yolo失败。</p>
+<p>&emsp;&emsp;2022-9-3 感觉良好！今天把前两天落下的补回来！仔细阅读了一下关于yolo的改进方式，找到了对yolo的NMS、loss、backbone、head替换的方式，准备开始尝试替换backbone进行研究。尝试在天池跑yolo失败。做了一些密集目标和小目标检测的实验，对于小目标最简单的方法就是放大图片，但是可能会面临对大尺寸目标检测效果变差的问题，所以是否使用放大需要根据实际决定；关于目标的旋转，测试发现如果原图是不平行于地面，检测效果不如平行的好，可以通过旋转（但是不现实），可能需要考虑到旋转目标检测的方法。</p>
 
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
