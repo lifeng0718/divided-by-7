@@ -208,7 +208,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-9-3 最近心态有点焦虑，9-2晚上基本没怎么睡好，调整一天心态吧，今天放个假。</p>
 <p>&emsp;&emsp;2022-9-4 感觉良好！今天把前两天落下的补回来！仔细阅读了一下关于yolo的改进方式，找到了对yolo的NMS、loss、backbone、head替换的方式，准备开始尝试替换backbone进行研究。尝试在天池跑yolo失败。做了一些密集目标和小目标检测的实验，对于小目标最简单的方法就是放大图片，但是可能会面临对大尺寸目标检测效果变差的问题，所以是否使用放大需要根据实际决定，当然还要注意修改NMS的iou-thres和conf-thres，因为小目标的得分可能不太高；关于目标的旋转，测试发现如果原图是不平行于地面，检测效果不如平行的好，可以通过旋转（但是不现实），可能需要考虑到旋转目标检测的方法。</p>
 <p>&emsp;&emsp;2022-9-5 有点点脱离科研了，今天要开始补补论文阅读方面了。网出问题了，修了半天的网，没想到学过通信的我居然还能遇到不能理解的宽带问题😅</p>
-<p>&emsp;&emsp;2022-9-6 浅学一下mmdetection。每日力扣√。</p>
+<p>&emsp;&emsp;2022-9-6 复习了一下yolo系和rcnn系。浅学一下mmdetection。每日力扣√。好像好几天没有写文章了，今天把模型蒸馏写出来吧。</p>
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
 <p>&emsp;&emsp;尽人事，听天命</p>
