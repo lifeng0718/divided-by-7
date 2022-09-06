@@ -141,7 +141,7 @@
 </a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/557221372">CVPR2022文章选读（还在长期更新...）</a>
+<a href="https://zhuanlan.zhihu.com/p/557221372">Simple Multi-dataset Detection，简单多数据集目标检测</a>
 <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 
