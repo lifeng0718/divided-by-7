@@ -154,7 +154,9 @@
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 
-
+&emsp;&emsp;
+<a href="https://zhuanlan.zhihu.com/p/561968313">五分钟看懂知识蒸馏，一种模型压缩的手段（大佬作品）</a>
+</a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 <br>
 
