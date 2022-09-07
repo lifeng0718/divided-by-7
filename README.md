@@ -217,7 +217,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
 <p>&emsp;&emsp;尽人事，听天命</p>
-
+<p>&emsp;&emsp;拒绝低效率人生！！！</p>
 
     
 
