@@ -219,7 +219,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-9-5 有点点脱离科研了，今天要开始补补论文阅读方面了。网出问题了，修了半天的网，没想到学过通信的我居然还能遇到不能理解的宽带问题😅</p>
 <p>&emsp;&emsp;2022-9-6 复习了一下yolo系和rcnn系。浅学一下mmdetection。每日力扣√。好像好几天没有写文章了，今天把模型蒸馏写出来吧，当做对论文的简单复习（已更新至知乎）。</p>
 <p>&emsp;&emsp;2022-9-7 电脑真的没内存了，整不动虚拟环境了，决定在colab上尝试学习mmdetection。把DINO之前阅读笔记搬到知乎。精读network slimming论文，已更新至知乎（抢我创新点是吧，没事，对于模型压缩我还有想法，明天再看看有没有被抢占）。每日一扣√，我发现算法题如果是为了考虑时间复杂度的话，其实多敲几行代码就行了，我的思路都是如何利用循环让代码简洁，降低空间复杂度，所以我反而废了更多脑子还做的更差？？？😅和室友学习了一下，算法是在满足空间复杂度的条件下，尽量降低时间复杂度，明天开始按这个标准解题。不学日语了！学了有啥用啊，不如把时间用在英语上，没准还有点用。</p>
-
+<p>&emsp;&emsp;2022-9-8 做了点规划，感觉有点低迷。当自勉。</p>
 
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
