@@ -222,6 +222,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-9-8 做了点规划，感觉有点低迷。当自勉。</p>
 <p>&emsp;&emsp;2022-9-13 中秋节断更了，现在回来啦。总而言之，今天学了一下paddle，目标是白嫖百度的V100显卡！paddle从代码风格角度看真的就是和torch一模一样啊！可是小细节上的不同又很让人烦。今天学了paddle.io; paddle.nn; paddle.optimizer; paddle.vision.transform，在paddle下跑通了MNIST，下班！开始看论文！</p>
 <p>&emsp;&emsp;2022-9-14 继续学了一些paddle的东西，计划三天内搞定paddle，主要看了一些如：AMP、grad、device、callbacks，然后复习并手推了一下fp和bp的计算过程。</p>
+<p>&emsp;&emsp;2022-9-15 虽然真的很不喜欢造轮子，学造轮子，但是真的花了三天的时间，把paddle、paddledetection给学了一遍，今天在aistudio上跑通了paddledetection，怎么说呢，虽然真的觉得这种重复（已经学过torch、tensorflow）的工作很无趣，但是期间也复习了不少知识吧。感觉明天就可以开始优化模型了，然后从明天开始要坚持读论文了，这两天都没有做科研的工作。  </p>
 
 
 
