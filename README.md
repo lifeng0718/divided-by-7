@@ -128,11 +128,9 @@
 <a href="https://zhuanlan.zhihu.com/p/558309940">DETR精读</a>
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
-
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/558416098">Swin Transformer精读</a>
 <img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/555610446">楼下小卖铺阿姨15分钟都能看完一个版本的yolo系列讲解（还在长期更新...）</a>
@@ -146,7 +144,6 @@
 <a href="https://zhuanlan.zhihu.com/p/557221372">Simple Multi-dataset Detection，简单多数据集目标检测</a>
 <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
-
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/558691210">DeiT,一个ViT+tricks+distillation模型</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
@@ -154,7 +151,6 @@
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/558588853">STUD,wild video实现OOD检测</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-
 
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/561968313">五分钟看懂知识蒸馏，一种模型压缩的手段（大佬作品）</a>
@@ -164,6 +160,9 @@
 <a href="https://zhuanlan.zhihu.com/p/562304012">Network slimming，一种基于通道屏蔽的模型压缩方法（抢我创新点是吧！！！😭我要是早出生五年指定没你的事😭）</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
+&emsp;&emsp;
+<a href="https://zhuanlan.zhihu.com/p/565059043">Model Soups，训练好的多余模型不要扔，倒进锅里大杂烩！</a>
+</a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 
 
@@ -225,7 +224,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-9-13 中秋节断更了，现在回来啦。总而言之，今天学了一下paddle，目标是白嫖百度的V100显卡！paddle从代码风格角度看真的就是和torch一模一样啊！可是小细节上的不同又很让人烦。今天学了paddle.io; paddle.nn; paddle.optimizer; paddle.vision.transform，在paddle下跑通了MNIST，下班！开始看论文！</p>
 <p>&emsp;&emsp;2022-9-14 继续学了一些paddle的东西，计划三天内搞定paddle，主要看了一些如：AMP、grad、device、callbacks，然后复习并手推了一下fp和bp的计算过程。</p>
 <p>&emsp;&emsp;2022-9-15 虽然真的很不喜欢造轮子，学造轮子，但是真的花了三天的时间，把paddle、paddledetection给学了一遍，今天在aistudio上跑通了paddledetection，怎么说呢，虽然真的觉得这种重复（已经学过torch、tensorflow）的工作很无趣，但是期间也复习了不少知识吧。感觉明天就可以开始优化模型了，然后从明天开始要坚持读论文了，这两天都没有做科研的工作。  </p>
-<p>&emsp;&emsp;2022-9-16 在学校常年一个人独享两块3090Ti，因为不在学校不方便连服务器就找个实习，结果只能捡别人剩下的一块3080，我什么时候受过这委屈？？？？？😡又不让我用aistuio，服务器也不定时给我用，麻了，看论文吧。  </p>
+<p>&emsp;&emsp;2022-9-16 在学校常年一个人独享两块3090Ti，因为不在学校不方便连服务器就找个实习，结果只能捡别人剩下的一块3080，我什么时候受过这委屈？？？？？😡又不让我用aistuio，服务器也不定时给我用，麻了，看论文吧。总结一下今天的工作，学会了在linux服务器上装anaconda、装环境、配置环境等，在服务器上进行训练。Acc达到89.x，读了一下Model Soup，已更新至知乎。</p>
 
 
 
