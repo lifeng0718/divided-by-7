@@ -63,8 +63,10 @@
 ![pandas](https://img.shields.io/badge/-pandas-yellow)
 ![tensorflow](https://img.shields.io/badge/-tensorflow-orange)
 ![pytorch](https://img.shields.io/badge/-pytorch-red)
+![PaddlePaddle](https://img.shields.io/badge/-PaddlePaddle-blue)
 ![torchvision](https://img.shields.io/badge/-torchvision-lightgrey)
-![openCV](https://img.shields.io/badge/-openCV-blue)
+![PaddleDetection](https://img.shields.io/badge/-PaddleDetection-green)
+![openCV](https://img.shields.io/badge/-openCV-FFE4E1)
   
   
 &emsp;&emsp;
