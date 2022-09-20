@@ -226,7 +226,8 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-9-15 虽然真的很不喜欢造轮子，学造轮子，但是真的花了三天的时间，把paddle、paddledetection给学了一遍，今天在aistudio上跑通了paddledetection，怎么说呢，虽然真的觉得这种重复（已经学过torch、tensorflow）的工作很无趣，但是期间也复习了不少知识吧。感觉明天就可以开始优化模型了，然后从明天开始要坚持读论文了，这两天都没有做科研的工作。  </p>
 <p>&emsp;&emsp;2022-9-16 在学校常年一个人独享两块3090Ti，因为不在学校不方便连服务器就找个实习，结果只能捡别人剩下的一块3080，我什么时候受过这委屈？？？？？😡又不让我用aistuio，服务器也不定时给我用，麻了，看论文吧。总结一下今天的工作，学会了在linux服务器上装anaconda、装环境、配置环境等，在服务器上进行训练。Acc达到89.x，读了一下Model Soup，已更新至知乎。</p>
 <p>&emsp;&emsp;2022-9-17 周六，放了一天假去买东西，走了3w多步，就当是补充这一周份的锻炼了。  </p>
-
+<p>&emsp;&emsp;2022-9-18 自愿加班，思考了一下目标检测+OCR的one-stage实现。  </p>
+<p>&emsp;&emsp;2022-9-19 在服务器上配置了个pytorch环境，还是yolo好用，但是据说mmdetection更好用，啥时候悄悄学了。  </p>
 
 <p>&emsp;&emsp;  </p>
 
