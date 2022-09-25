@@ -237,6 +237,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
 <p>&emsp;&emsp;尽人事，听天命</p>
 <p>&emsp;&emsp;拒绝低效率人生！！！</p>
+<p>&emsp;&emsp;人生意义信条：收获想收获的收获，给予想给予的给予。</p>
 
     
 
