@@ -231,7 +231,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-9-20 2022.9.20小卢的至暗时刻！对over fitting有了全新的理解，我认为当前的主流思想都是数据集在several environment下采集，以实现各种环境下的拟合。但是这有个precondition，就是数据量确实足够大。如果不够大，必须想办法缓解测试集上的过拟合，因为极大可能测试集的样本和训练集几乎来自相同场景，即使在测试集上跑分很高，脱离了当下的环境依然会严重over fitting。然后介绍小卢至暗时刻，搬家两次，手机坏了。</p>
 <p>&emsp;&emsp;2022-9-21 思考了一些数据增强方案，来了个北航博士上了一会儿机器学习的课，重新思考了一些以前未考虑过的问题，学习了一下图像的DFT。复习了50个单词。 </p>
 <p>&emsp;&emsp;2022-9-22 基本就是在学DFT，然后做了点数据采集工作。复习了50个单词。 </p>
-
+<p>&emsp;&emsp;2022-9-25 人生的意义是什么呢？我想我的人生价值，不是简简单单的赚钱那么低俗，应该是给予，应该是收获。 </p>
 
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
