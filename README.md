@@ -157,7 +157,7 @@
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/562304012">Network slimming，一种基于通道屏蔽的模型压缩方法（抢我创新点是吧！！！😭我要是早出生五年指定没你的事😭）</a>
+<a href="https://zhuanlan.zhihu.com/p/562304012">Network slimming，一种基于通道屏蔽的模型压缩方法</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
