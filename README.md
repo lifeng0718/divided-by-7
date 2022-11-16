@@ -140,6 +140,11 @@
 <a href="https://github.com/divided-by-7/yolov1">YOLOv1原理详解</a>
 </a><img src="https://img.shields.io/badge/in-Github-black"></a>&emsp;
 
+
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://zhuanlan.zhihu.com/p/583909493">YOLOv5模型结构讲解</a>
+<img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+
 &emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/557221372">Simple Multi-dataset Detection，简单多数据集目标检测</a>
 <a href="https://www.zhihu.com/people/divided7"><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
@@ -240,7 +245,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-10-8 看了一些不太靠谱的文章，简单看了一下paddle提供的各种框架，看了一点语义分割和声纹识别的案例。和导师讨论了一下关于车路协同的项目，感觉实现起来在数据方面比较困难。到发工资的时候了，因为上个月12号入职，而且这个月的还不结算，以至于发完工资净收入-8000，贷款实习第一人。 </p>
 <p>&emsp;&emsp;2022-10-9 和导师简单讨论了一下车路协同的项目，等待下次开会；学了一下paddleseg、尝试复现Kaldi的声纹识别算法，但是需要有sudo的linux，折腾了好久都失败告终。 </p>
 <p>&emsp;&emsp;2022-10-10 受某导师点拨，还是学生的阶段确实应该更注重学习方法和科研，而不是过多的做工作方面的事，今天开始会均衡工作和科研任务。阅读了一篇关于无人机的室内定位目标文章，大体上用了VO、视觉SLAM、yolo3等，实现无人机自定位、三维空间目标定位等。工作方面学习了一下关于jetson部署方面的知识，包含yolov5和paddledet的部署。 </p>
-<p>&emsp;&emsp;2022-11-16 时隔一个多月，我回来啦！这段时间没有更新，也做了不少的事情，完成了一些项目、学习了比特大陆、瑞芯微的一些算法部署方面的东西，跑通了mmlab的关键点、分割、检测模型，以及各方面的深入学习，同时也即将成为预备党员，也和一些博导有深入联系交流，各方面都有一些提升吧，还做了一些声纹识别类的项目（只能算跑通demo吧，kaldi的算法），还有YOLACT算法、交叉视角的地图定位算法等。今天准备把yolov5的模型结构梳理一遍， 发布一下~ </p>
+<p>&emsp;&emsp;2022-11-16 时隔一个多月，我回来啦！这段时间没有更新，也做了不少的事情，完成了一些项目、学习了比特大陆、瑞芯微的一些算法部署方面的东西，跑通了mmlab的关键点、分割、检测模型，以及各方面的深入学习，同时也即将成为预备党员，也和一些博导有深入联系交流，各方面都有一些提升吧，还做了一些声纹识别类的项目（只能算跑通demo吧，kaldi的算法），还有YOLACT算法、交叉视角的地图定位算法等。今天准备把yolov5的模型结构梳理一遍，已更新到网络发文中。同时做了一些模型推理上的时间测试，希望能在未来尝试精简模型。 </p>
 
 
 
