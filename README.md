@@ -240,6 +240,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-10-8 看了一些不太靠谱的文章，简单看了一下paddle提供的各种框架，看了一点语义分割和声纹识别的案例。和导师讨论了一下关于车路协同的项目，感觉实现起来在数据方面比较困难。到发工资的时候了，因为上个月12号入职，而且这个月的还不结算，以至于发完工资净收入-8000，贷款实习第一人。 </p>
 <p>&emsp;&emsp;2022-10-9 和导师简单讨论了一下车路协同的项目，等待下次开会；学了一下paddleseg、尝试复现Kaldi的声纹识别算法，但是需要有sudo的linux，折腾了好久都失败告终。 </p>
 <p>&emsp;&emsp;2022-10-10 受某导师点拨，还是学生的阶段确实应该更注重学习方法和科研，而不是过多的做工作方面的事，今天开始会均衡工作和科研任务。阅读了一篇关于无人机的室内定位目标文章，大体上用了VO、视觉SLAM、yolo3等，实现无人机自定位、三维空间目标定位等。工作方面学习了一下关于jetson部署方面的知识，包含yolov5和paddledet的部署。 </p>
+
 <!-- About me -->
 # <img height="40" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif"/> About me </h2> 
 <p>&emsp;&emsp;尽人事，听天命</p>
