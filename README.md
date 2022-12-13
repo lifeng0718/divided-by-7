@@ -170,7 +170,7 @@
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
-<a href="https://zhuanlan.zhihu.com/p/591494322">Model Soups，HRNet，高分辨率保持的一个模型，常用于关键点检测！</a>
+<a href="https://zhuanlan.zhihu.com/p/591494322">HRNet，高分辨率保持的一个模型，常用于关键点检测！</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 <br>
