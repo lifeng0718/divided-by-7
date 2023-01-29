@@ -173,6 +173,10 @@
 <a href="https://zhuanlan.zhihu.com/p/591494322">HRNet，高分辨率保持的一个模型，常用于关键点检测！</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
+&emsp;&emsp;
+<a href="https://zhuanlan.zhihu.com/p/599857462">YOLO-Pose，实时关键点检测模型！</a>
+</a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+
 <br>
 
 💬 <b>项目分享:</b>
@@ -252,8 +256,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-12-13 旧的项目一去，新的项目又来。疫情结束了，终于生活要回到正轨，开始加油吧。今天把HRNet论文做了精度，并且简单学习了一下中间监督。已将笔记更新至知乎。 </p>
 <p>&emsp;&emsp;2022-12-17~20 放弃了一条能躺平的路。 </p>
 <p>&emsp;&emsp;2023-1-9 终于身体康复，开始冲！学习了一些关于偏底层和部署相关的、torchscript等；阅读目标检测新的SOTA——EVA，近期更新到知乎。 </p>
-
-
+<p>&emsp;&emsp;2023-1-29 已将yolopose论文精读更新至知乎。似乎已成功将yolopose多点位改进算法修改好，后期会上传至知乎。 </p>
 
 
 
