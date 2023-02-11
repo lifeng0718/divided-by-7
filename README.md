@@ -263,7 +263,7 @@ Chinese news classification：<a href="https://github.com/divided-by-7/news-clas
 <p>&emsp;&emsp;2022-12-17~20 放弃了一条能躺平的路。 </p>
 <p>&emsp;&emsp;2023-1-9 终于身体康复，开始冲！学习了一些关于偏底层和部署相关的、torchscript等；阅读目标检测新的SOTA——EVA，近期更新到知乎。 </p>
 <p>&emsp;&emsp;2023-1-29 已将yolopose论文精读更新至知乎。似乎已成功将yolopose多点位改进算法修改好，后期会上传至知乎。 </p>
-<p>&emsp;&emsp;2023-2-11 已将yolopose自定义点位数量本地数据集的代码修改完成，更新至知乎。 </p>
+<p>&emsp;&emsp;2023-2-11 已将yolopose自定义点位数量本地数据集的代码修改完成，更新至知乎。受到mmlab某项目的负责人邀请参与贡献一个项目，我膨胀了哈哈哈。 </p>
 
 
 <!-- About me -->
