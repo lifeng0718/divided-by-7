@@ -178,7 +178,7 @@
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 &emsp;&emsp;
-Chinese news classification：<a href="https://zhuanlan.zhihu.com/p/603799078">YOLO-Pose大查修，适应任意点位数量的模型训练！</a>
+<a href="https://zhuanlan.zhihu.com/p/603799078">YOLO-Pose大查修，适应任意点位数量的模型训练！</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 <br>
