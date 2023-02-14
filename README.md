@@ -177,7 +177,12 @@
 <a href="https://zhuanlan.zhihu.com/p/599857462">YOLO-Pose，实时关键点检测模型！</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
-&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://zhuanlan.zhihu.com/p/601852628">YOLO-Pose损失函数详解</a>
+</a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+
+
+&emsp;&emsp;&emsp;&emsp;
 <a href="https://zhuanlan.zhihu.com/p/603799078">YOLO-Pose大查修，适应任意点位数量的模型训练！</a>
 </a><img src="https://img.shields.io/badge/in-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
